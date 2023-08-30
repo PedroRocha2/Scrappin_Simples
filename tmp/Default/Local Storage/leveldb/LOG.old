@@ -1,0 +1,22 @@
+2023/08/30-14:47:12.926 e24 Reusing MANIFEST C:\Users\Usuario\OneDrive\Documentos\buscaTemporária\tmp\Default\Local Storage\leveldb/MANIFEST-000001
+2023/08/30-14:47:12.932 e24 Recovering log #262
+2023/08/30-14:47:12.932 e24 Level-0 table #265: started
+2023/08/30-14:47:12.950 e24 Level-0 table #265: 68962 bytes OK
+2023/08/30-14:47:12.951 e24 Recovering log #264
+2023/08/30-14:47:12.954 e24 Reusing old log C:\Users\Usuario\OneDrive\Documentos\buscaTemporária\tmp\Default\Local Storage\leveldb/000264.log 
+2023/08/30-14:47:12.959 e24 Delete type=0 #262
+2023/08/30-14:47:39.412 e24 Level-0 table #267: started
+2023/08/30-14:47:39.428 e24 Level-0 table #267: 46368 bytes OK
+2023/08/30-14:47:39.432 e24 Delete type=0 #264
+2023/08/30-14:47:39.438 e24 Compacting 4@0 + 1@1 files
+2023/08/30-14:47:39.450 e24 Generated table #268@0: 15 keys, 26065 bytes
+2023/08/30-14:47:39.450 e24 Compacted 4@0 + 1@1 files => 26065 bytes
+2023/08/30-14:47:39.453 e24 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/08/30-14:47:39.454 e24 Delete type=2 #259
+2023/08/30-14:47:39.454 e24 Delete type=2 #261
+2023/08/30-14:47:39.454 e24 Delete type=2 #263
+2023/08/30-14:47:39.454 e24 Delete type=2 #265
+2023/08/30-14:47:39.454 e24 Delete type=2 #267
+2023/08/30-14:48:00.512 e24 Level-0 table #270: started
+2023/08/30-14:48:00.523 e24 Level-0 table #270: 58077 bytes OK
+2023/08/30-14:48:00.525 e24 Delete type=0 #266

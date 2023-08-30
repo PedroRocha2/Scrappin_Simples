@@ -1,0 +1,6 @@
+2023/08/30-14:50:07.257 2508 Reusing MANIFEST C:\Users\Usuario\OneDrive\Documentos\buscaTemporária\tmp\Default\Local Storage\leveldb/MANIFEST-000001
+2023/08/30-14:50:07.260 2508 Recovering log #269
+2023/08/30-14:50:07.268 2508 Reusing old log C:\Users\Usuario\OneDrive\Documentos\buscaTemporária\tmp\Default\Local Storage\leveldb/000269.log 
+2023/08/30-14:50:22.924 302c Level-0 table #273: started
+2023/08/30-14:50:22.951 302c Level-0 table #273: 65348 bytes OK
+2023/08/30-14:50:22.954 302c Delete type=0 #269
